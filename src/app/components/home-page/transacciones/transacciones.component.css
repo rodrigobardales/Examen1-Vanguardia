@@ -1,0 +1,22 @@
+.trans-wrap{
+  background-color: white;
+  border-radius: 15px;
+  padding: 25px;
+  margin: 15px;
+}
+
+.item{
+  border: 1px solid black;
+  margin-top: 8px;
+  padding: 4px;
+}
+
+.header{
+  display: flex;
+  justify-content: space-between;
+}
+
+.footer{
+  display: flex;
+  justify-content: space-between;
+}
